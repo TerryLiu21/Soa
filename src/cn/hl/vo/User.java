@@ -8,8 +8,13 @@ public class User {
 	private String userName;
 	private int age;
 	
+
 	//edit on local
 	private String password;
+
+	//edit on github
+	private String account;
+
 	
 	public User() {
 		// TODO Auto-generated constructor stub
