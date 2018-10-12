@@ -10,5 +10,7 @@
 	this is the index page
 	<br />
 	edit on github
+	<br />
+	edit on local
 </body>
 </html>
