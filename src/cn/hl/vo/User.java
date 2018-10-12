@@ -1,12 +1,15 @@
 package cn.hl.vo;
 
 /**
-* 在github服务上对Bean做修改
+* 
 */
 public class User {
 	private int userId;
 	private String userName;
 	private int age;
+	
+	//edit on local
+	private String password;
 	
 	public User() {
 		// TODO Auto-generated constructor stub
